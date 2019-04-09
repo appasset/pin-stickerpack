@@ -1,0 +1,10 @@
+ul.album,
+ul.album li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.album li img {
+  border: none;
+}
