@@ -5,6 +5,11 @@ ul.album li {
   padding: 0;
 }
 
+ul.album li {
+  display: block;
+  float: left;
+}
+
 ul.album li img {
   border: none;
 }
