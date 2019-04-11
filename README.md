@@ -3,7 +3,8 @@
 
 Fork from telegram
 
-[![screenshot](https://i.imgur.com/ahwYHdX.png)][app]
+[![screenshot][overview]][app]
 
 
 [app]: https://pin-stickerpack.appasset.ru/
+[overview]: ./docs/resources/stickerpack-screenshot.png
