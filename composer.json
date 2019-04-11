@@ -1,0 +1,14 @@
+{
+    "name": "appasset/pin-stickerpack",
+    "type": "project",
+    "require": {
+        "composer/composer": "^1.8",
+        "fxp/composer-asset-plugin": "^1.4"
+    },
+    "authors": [
+        {
+            "name": "Александр Трофимов",
+            "email": "trofimoff@live.ru"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "appasset-pin-stickerpack",
+  "version": "1.0.0",
+  "description": "[pin-stickerpack][app] ======================",
+  "main": "app-cli.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appasset/pin-stickerpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appasset/pin-stickerpack/issues"
+  },
+  "homepage": "https://github.com/appasset/pin-stickerpack#readme"
+}

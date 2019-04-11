@@ -1,10 +1,10 @@
 $(document).ready(function() {
   $.ajax({
-    url: './images/album.json5',
+    url: './album.min.json',
     method: 'get',
     dataType: 'text',
     success: function(data) {  
-      data  = JSON5.parse(data);    
+      data  = JSON.parse(data);    
       document.title = data.album.title;
       
       let ul    = $('<ul/>').addClass('album').appendTo('.content'),
