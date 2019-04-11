@@ -6,4 +6,4 @@ Fork from telegram
 [![screenshot](https://i.imgur.com/ahwYHdX.png)][app]
 
 
-[app]: https://appasset.github.io/pin-stickerpack/
+[app]: https://pin-stickerpack.appasset.ru/
