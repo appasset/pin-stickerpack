@@ -8,5 +8,5 @@ Fork from telegram
 ### [Download][archive]
 
 [app]: https://pin-stickerpack.appasset.ru/
-[archive]: ./docs/resources/stickerpack.zip "stickerpack.zip"
+[archive]: https://git.io/fjq13 "stickerpack.zip"
 [overview]: ./docs/resources/stickerpack-screenshot.png
